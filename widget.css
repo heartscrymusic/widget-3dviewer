@@ -67,17 +67,7 @@
     padding: 10px;
     font-size: 9px;
 }
-.com-chilipeppr-widget-3dviewer-inspect {
-    padding-bottom:0;
-    margin-bottom:0;
-    font-size:10px;
-    position:absolute;
-    min-width:250px;
-    max-width:100%;
-    /* width:100%; */
-    z-index: 9;
-    box-shadow: 0 0 20px #888888;
-}
+
 .com-chilipeppr-widget-3dviewer-panzoom-indicator {
     font-size:10px;
     padding-top: 7px;
